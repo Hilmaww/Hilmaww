@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Hilmaww Spotify Playing" width="350" />](https://open.spotify.com/playlist/6bmrXssF0KbyXGmjngQvJb)
+[<img target="_blank" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Hilmaww Spotify Playing" width="350" />](https://open.spotify.com/playlist/6bmrXssF0KbyXGmjngQvJb)
 
 ### Connect with me:
 

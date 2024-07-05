@@ -10,16 +10,6 @@
 - 🥅 2020 Goals: finished what i've started
 - ⚡ Fun fact: Looking forward to play tennis
 
-### Motivasi ku mengikuti DSC ITB?
-
-- Mau ikut berkontribusi dalam perkembangan DSC ITB
-- Ingin tau lebih dalam tentang GDE
-- Ingin bisa berkontribusi di suatu komunitas 
-
-### Spotify Playing 🎧
-
-[<img target="_blank" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Hilmaww Spotify Playing" width="350" />](https://open.spotify.com/playlist/6bmrXssF0KbyXGmjngQvJb)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

@@ -4,11 +4,9 @@
 
 ## I'm a student at Institut Teknologi Bandung!!
 
-- 🔭 I'm making my way on my first year!
-- 🌱 I’m currently learning Django and React
-- 📈 I’m constantly looking for changes
-- 🥅 2020 Goals: finished what i've started
-- ⚡ Fun fact: Looking forward to play tennis
+- 🔭 I'm making impact on Indonesia's telecommunication industry one at a time
+- 🌱 I’m currently learning Go and Python
+- ⚡ Fun fact: Looking forward to play tennis!
 
 ### Connect with me:
 
